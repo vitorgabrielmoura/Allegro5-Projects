@@ -5,4 +5,5 @@ Required libraries:
 - Allegro 5
 
 **Preview**
-![DigitalPiano](resources/piano.jpg)
+
+![DigitalPiano](resources/preview.png)
