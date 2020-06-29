@@ -3,4 +3,6 @@
 
 Required libraries:
 - Allegro 5
+
+**Preview**
 ![DigitalPiano](resources/piano.jpg)
