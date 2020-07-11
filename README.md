@@ -8,4 +8,4 @@ Required libraries:
 
 ![DigitalPiano](resources/preview.png)
 
-**1. Tic Tac Toe. Made with C and the library Allegro5. **
+**2. Tic Tac Toe. Made with C and the library Allegro5.**
