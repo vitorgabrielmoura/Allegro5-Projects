@@ -289,6 +289,18 @@ int main(){
         }
     }
 
+    al_destroy_bitmap(simbolo);
+    al_destroy_bitmap(circulo);
+    al_destroy_bitmap(xis);
+    al_destroy_bitmap(icon);
+    al_destroy_bitmap(wallpaper);
+    al_destroy_bitmap(image);
+    al_destroy_font(font);
+    al_destroy_font(font2);
+    al_destroy_font(font3);
+    al_destroy_font(font4);
+    al_destroy_event_queue(event_queue);
+    al_destroy_display(window);
 
     return 0;
 }
