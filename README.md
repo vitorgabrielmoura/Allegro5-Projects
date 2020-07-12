@@ -4,8 +4,11 @@ Required libraries:
 
 ***1. Digital piano made with C and the library Allegro5. At the moment, only work with the mouse click.***
 
-**Preview**
+**Preview:**
 
-![DigitalPiano](resources/preview.png)
+![DigitalPiano](Digital Piano/resources/preview.png)
 
 **2. Tic Tac Toe. Made with C and the library Allegro5.**
+**Preview:**
+
+![TicTacToe](Tic Tac Toe/resources/preview.png)
